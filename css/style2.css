@@ -1,0 +1,48 @@
+
+ /* exercício 1, tabela 1 */
+ .table-exercise-1  .container-table-1  tr:nth-child(2) td{
+        text-align: center;
+}
+
+.table-exercise-1  .container-table-1  tr:nth-child(3) td{
+        text-align: right;
+}
+ 
+
+ /* exercício 1, tabela 2 */
+.table-exercise-1  .container-table-2  tr:nth-child(2) td{
+        text-align: center;
+        
+}
+
+ /* exercício 3, tabela 3*/
+.table-exercise-1  .container-table-3  tr:nth-child(1) td:nth-child(3){
+        text-align: center;
+        
+}
+
+.table-exercise-1  .container-table-3  tr:nth-child(2) td{
+        text-align: center;
+        
+}
+
+
+
+/* exercício 2 */
+.table-exercise-2 td{
+        padding: 15px 50px;
+ }
+
+ .table-exercise-2 table thead tr td{
+        padding: 25px 150px;
+
+        text-align: center;
+}
+
+.table-exercise-2 table tbody tr td:nth-child(2){
+        padding: 150px
+}
+
+.table-exercise-2 table tfoot tr td{
+        text-align: center;
+}

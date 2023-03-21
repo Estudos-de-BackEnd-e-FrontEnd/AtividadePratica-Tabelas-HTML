@@ -1,0 +1,44 @@
+table, tr, th, td{
+        margin: 10px 0;
+        border: 1px solid black;
+        border-collapse: collapse;
+        font-weight: bold;
+        font-family: "Roboto", sans-serif;
+      
+}
+img{
+        border: 5px solid;
+}
+
+.table-exercise-1 td{
+        width: 150px;
+        height: 25px;
+}
+
+.table-center {
+        text-align: center
+}
+.table-right {
+        text-align: right
+}
+
+.table-exercise-2 td{
+        padding: 15px 50px;
+ }
+
+.table-exercise-2 table thead tr td{
+        padding: 25px 150px;
+}
+
+.table-exercise-2 table tbody tr td:nth-child(2){
+        padding: 150px
+}
+
+.table-exercise-3 td{
+        padding: 15px 20px;
+        
+ }
+
+ .table-exercise-3 table{
+        border-collapse: separate;
+}
