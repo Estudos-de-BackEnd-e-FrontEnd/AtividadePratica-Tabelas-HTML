@@ -8,8 +8,7 @@ As tabelas estão disponíveis nos arquivos .html deste repositório. Basta abri
 
 <br>
 
-## Exemplos
-Tabela Simples
+## Tabela Simples
 A tabela simples contém apenas dados em linhas e colunas.
 
 <br>
